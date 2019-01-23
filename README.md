@@ -1,6 +1,5 @@
 # QzxyWebsite 基于thinkphp5.2
-给学校做的网站-CMS管理系统-我的第一个个人项目
-结构目录请看thinkphp(稍微不一样)
+* 清泽心雨程序
 
 # 协议
 * 本程序使用apache2.0开源协议（主要争对 application、template下的程序文件。）
@@ -32,7 +31,6 @@
 * application下API组件里是一些公共接口，可以做一些简单的功能。本地化的小App放在 srt文件夹内，每一个文件夹都是单独的小应用，文件夹内包含有全部需要的文件，没有交叉链接，可以随意调整位置。
    * userenroll 对应 srt/join
    * quesbank 对应 srt/quesbank
-* [这个是测试地址](http://qzxy.starsriver.club)
 
 ## quesbank说明
 这个模块没有数据导入功能，建议通过excel格式的题库进行导入。如果有需求的可以联系我来补充这个功能。
